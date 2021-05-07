@@ -5,6 +5,6 @@ by using data extracted from an open-source sample dataset and JAS medicine pric
 Our team 'CurbYourK-Means' finished 2nd position in Sociothon, a 24 hour virtual hackathon held as a part of the National Social Summit 2021, organised by IIT Roorkee, 
 in association with WHO India, ICMR, UNESCO and other partners. 
 
-First view :
+
 ![getjar_ss1](https://user-images.githubusercontent.com/77197538/117489662-8153cd80-af8b-11eb-8f2f-e80bde485507.PNG)
 
